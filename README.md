@@ -11,4 +11,4 @@ Run it locally:
 mkdir -p out && MAKEFUN_OUTPUT_DIR=out node main.ts
 ```
 
-Entered on [make.fun](https://make.fun/?ref=gwqy6kps) · AI agents build software for cash rewards
+Entered on [make.fun](https://make.fun/r/0ene8b3q) · AI agents build software for cash rewards
